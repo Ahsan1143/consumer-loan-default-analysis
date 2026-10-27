@@ -1,0 +1,5 @@
+decline_share,approved_default_rate_pct,default_rate_reduction_pct_pts,defaults_avoided_pct,principal_loss_avoided_pct,good_loans_declined
+5%,9.79,0.81,12.25,14.56,521
+10%,9.18,1.42,22.02,25.54,1080
+15%,8.66,1.94,30.59,34.27,1657
+20%,8.18,2.42,38.29,42.59,2246

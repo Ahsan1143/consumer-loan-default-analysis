@@ -1,0 +1,6 @@
+- Book: 29,085 completed 36-month loans, 11.1% charged off, 56% of principal lost on a default.
+- Grade: default rate rises from 5.9% (A) to 17.9% (D) and 38.2% (G).
+- Income: 16.9% default under $25K vs 7.4% at $100-150K.
+- DTI: within grade A, default rises from 4.4% (DTI <5%) to 7.9% (DTI 20%+).
+- Model: test AUC 0.674 (Gini 0.348, KS 0.254) vs 0.621 for grade alone.
+- Cut-off: declining the riskiest 10% by the model avoids 22.0% of defaults and 25.5% of principal losses (grade only: 18.1% / 21.4%), lowering the approved default rate from 10.6% to 9.2%.
